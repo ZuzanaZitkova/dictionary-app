@@ -4,7 +4,7 @@ import axios from 'axios';
 import Results from './Results';
 
 export default function Dictionary() {
-  const [keyword, setKeyword] = useState(null);
+  const [keyword, setKeyword] = useState('');
   const [results, setResults] = useState(null);
 
   function search(event) {
