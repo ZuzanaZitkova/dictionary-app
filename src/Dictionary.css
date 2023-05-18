@@ -1,4 +1,10 @@
-.Dictionary {
+.Dictionary form {
   text-align: center;
   margin: 50px;
+}
+
+.Dictionary .Results {
+  text-align: left;
+  margin-left: 300px;
+  
 }
