@@ -6,8 +6,8 @@ function App() {
       <Dictionary />
       <footer>
         <p>
-          This dictionary website was coded by Zuzana Zitkova nd is open sourced
-          on{' '}
+          This dictionary website was coded by Zuzana Zitkova and is open
+          sourced on{' '}
           <a href="https://github.com/ZuzanaZitkova/dictionary-app">GitHub</a>
         </p>
       </footer>

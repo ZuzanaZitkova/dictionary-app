@@ -1,8 +1,9 @@
 .Dictionary form {
-  text-align: center;
-  margin: 50px;
+  text-align: left;
+  margin: 50px 100px;
 }
 
 .Dictionary .Results {
-  text-align: center;
+  text-align: left;
+  margin-left: 100px;
 }
