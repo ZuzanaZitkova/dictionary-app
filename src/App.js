@@ -3,7 +3,8 @@ import Dictionary from './Dictionary.js';
 function App() {
   return (
     <div className="App">
-      <Dictionary />
+      <h1>Dictionary</h1>
+      <Dictionary defaultWord="sunrise" />
       <footer>
         <p>
           This dictionary website was coded by Zuzana Zitkova and is open

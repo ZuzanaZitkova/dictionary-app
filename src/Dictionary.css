@@ -1,13 +1,37 @@
 .Dictionary form {
-  text-align: left;
-  margin: 50px 100px;
+  margin: 30px 0;
+  width: 100%;
+  font-size: 20px;
 }
-.Dictionary h1 {
-  margin: 50px 100px;
-  font-size: 40px;
-  color: rgb(11, 60, 60);
+
+.Dictionary {
+  max-width: 1000px;
+
+  margin: auto;
+}
+
+.Dictionary section {
+  border-radius: 10px;
+  background-color: white;
+
+  padding: 30px;
+  margin: 20px 0;
+  box-shadow: 0 5px 5px rgb(0 0 0 /20%);
 }
 .Dictionary .Results {
+  text-align: justify;
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 10px 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  color: #333;
+}
+
+.Dictionary .hint {
+  font-size: 15px;
   text-align: left;
-  margin-left: 100px;
+  margin-top: 5px;
 }

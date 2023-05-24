@@ -1,0 +1,23 @@
+.Phonetics a {
+  border: 1px solid teal;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  transition: all 150ms ease-in-out;
+  font-size: 15px;
+  font-weight: bold;
+  color: teal;
+  margin-right: 15px;
+  line-height: 3;
+}
+
+.Phonetics a:hover {
+  background-color: teal;
+  color: white;
+}
+.text {
+  font-size: 20px;
+  padding: 10px 20px;
+  opacity: 0.6;
+  line-height: 1.5;
+}
